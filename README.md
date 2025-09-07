@@ -17,5 +17,5 @@ run test.c
 run test.cpp
 ```
 ```
-run test.java
+run Test.java
 ```
