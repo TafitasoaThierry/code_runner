@@ -4,7 +4,7 @@ A code runner for c, c++, java, python and javasript 😃
 👉 Add the result file to the path variable\
 👉 Use the "run" command follow by the name of the file to execute a script: \
 
-eg:\
-- "run test.py"\
-- "run test.js"\
+eg:
+- "run test.py"
+- "run test.js"
 - ...👍
